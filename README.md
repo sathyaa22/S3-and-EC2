@@ -1,7 +1,7 @@
 # CLOUD-STORAGE-CREATION-S3-AND-LAUNCHING-AN-EC2-INSTANCE-IN-AWS-
 
-### NAME: SATHYAA R
-### REG NO: 212223100052
+## NAME: SATHYAA R
+## REG NO: 212223100052
 
 ## AIM
 To Create S3 bucket and EC2 Instances for Linux and Windows.
@@ -65,14 +65,14 @@ Include the commands used in the Experiment.
 
 ## OUTPUT
 
-S3 BUCKET:
+### S3 BUCKET:
 
 <img width="1723" height="913" alt="one" src="https://github.com/user-attachments/assets/ad900bf6-c945-462f-aa75-67201f093bd0" />
 
 <img width="1721" height="914" alt="two" src="https://github.com/user-attachments/assets/820504e4-d5e4-4623-819f-a1a3dc2b38cf" />
 
 
-EC2 INSTANCE:
+### EC2 INSTANCE:
 
 <img width="1720" height="914" alt="three" src="https://github.com/user-attachments/assets/3a1c3f60-2e7c-44e3-aa31-e53479d88bc0" />
 
